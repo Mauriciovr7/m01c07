@@ -11,3 +11,16 @@ footer {
 h3 {
     text-align: center;
 }
+
+.card {
+    max-height: 460px;
+    margin: 2%;
+}
+
+.titulo {
+    background: #7BD4E6;
+}
+
+footer {
+    margin-top: 2%;
+}
