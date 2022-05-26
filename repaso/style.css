@@ -1,6 +1,13 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRMCPwRlg6WpRhCZOtMdga49UwZi_WVG7OJw&usqp=CAU);
+}
 footer {
     background: red;
     font-size: larger;
     font-weight: bolder;
+    text-align: center;
+}
+
+h3 {
     text-align: center;
 }
